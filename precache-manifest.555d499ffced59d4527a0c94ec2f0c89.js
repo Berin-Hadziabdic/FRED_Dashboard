@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fb9eb4f7f340b53e45a3f0ace939b80",
+    "revision": "ba91c2bac161fe413ddfb5b6a095c476",
     "url": "/fred_dashboard/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fred_dashboard/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "a42d49cd81b6fc872fbd",
+    "revision": "d5a20b29670570e71501",
     "url": "/fred_dashboard/static/css/main.80b06fcb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fred_dashboard/static/js/2.bd1d1e52.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a42d49cd81b6fc872fbd",
-    "url": "/fred_dashboard/static/js/main.ede2d4d4.chunk.js"
+    "revision": "d5a20b29670570e71501",
+    "url": "/fred_dashboard/static/js/main.6ae8d0f6.chunk.js"
   },
   {
     "revision": "fcbb6347b29d8bdec55b",
