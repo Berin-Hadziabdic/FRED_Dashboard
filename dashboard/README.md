@@ -1,3 +1,7 @@
+## Deployment Link
+
+https://berin-hadziabdic.github.io/fred_dashboard/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
