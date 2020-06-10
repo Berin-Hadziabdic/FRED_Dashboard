@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fred_dashboard/static/css/main.80b06fcb.chunk.css",
-    "main.js": "/fred_dashboard/static/js/main.6ae8d0f6.chunk.js",
-    "main.js.map": "/fred_dashboard/static/js/main.6ae8d0f6.chunk.js.map",
+    "main.js": "/fred_dashboard/static/js/main.ede2d4d4.chunk.js",
+    "main.js.map": "/fred_dashboard/static/js/main.ede2d4d4.chunk.js.map",
     "runtime-main.js": "/fred_dashboard/static/js/runtime-main.b2c9cfc8.js",
     "runtime-main.js.map": "/fred_dashboard/static/js/runtime-main.b2c9cfc8.js.map",
     "static/css/2.829c9cb5.chunk.css": "/fred_dashboard/static/css/2.829c9cb5.chunk.css",
     "static/js/2.bd1d1e52.chunk.js": "/fred_dashboard/static/js/2.bd1d1e52.chunk.js",
     "static/js/2.bd1d1e52.chunk.js.map": "/fred_dashboard/static/js/2.bd1d1e52.chunk.js.map",
     "index.html": "/fred_dashboard/index.html",
-    "precache-manifest.555d499ffced59d4527a0c94ec2f0c89.js": "/fred_dashboard/precache-manifest.555d499ffced59d4527a0c94ec2f0c89.js",
+    "precache-manifest.eb4480a3ba80e0024dc2fc4ace72b707.js": "/fred_dashboard/precache-manifest.eb4480a3ba80e0024dc2fc4ace72b707.js",
     "service-worker.js": "/fred_dashboard/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/fred_dashboard/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.80b06fcb.chunk.css.map": "/fred_dashboard/static/css/main.80b06fcb.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.bd1d1e52.chunk.js",
     "static/css/main.80b06fcb.chunk.css",
-    "static/js/main.6ae8d0f6.chunk.js"
+    "static/js/main.ede2d4d4.chunk.js"
   ]
 }
