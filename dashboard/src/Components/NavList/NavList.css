@@ -1,0 +1,11 @@
+.nav-heading {
+  color: gray;
+  border-bottom: gainsboro;
+  font-family: fantasy;
+  border-bottom: black;
+}
+
+.nav-sub-list {
+  margin-top: 100px;
+  font-weight: bold;
+}

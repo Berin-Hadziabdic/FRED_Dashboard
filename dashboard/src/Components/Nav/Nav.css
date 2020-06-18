@@ -1,0 +1,21 @@
+.nav-custom {
+  background: linear-gradient(
+    90deg,
+    rgba(237, 236, 255, 1) 0%,
+    rgba(81, 51, 96, 1) 100%,
+    rgba(132, 118, 187, 1) 100%
+  );
+}
+
+.custom-link {
+  border-bottom: 1px solid #cfcec0;
+  color: #62536e;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.custom-link:hover {
+  background-color: lightgrey;
+  color: #32203c;
+  font-family: "Times New Roman", Times, serif;
+}
